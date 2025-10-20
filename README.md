@@ -6,7 +6,7 @@ En este marco, resulta relevante analizar la procedencia de los productos comerc
 Este proyecto se inscribe en ese contexto, utilizando los datos de 2024 para ofrecer una lectura analítica de la distribución geográfica de los alimentos que llegan a Mercamadrid. El estudio permite identificar patrones de procedencia, diferencias en las distancias recorridas y relaciones con la estacionalidad, aportando una base de conocimiento útil para la reflexión sobre la sostenibilidad y la resiliencia del sistema alimentario español.<br>
 
 ## RESUMEN
-  - Preguntas a responder
+  - Preguntas a responder <br>
 ¿Cuál es el peso real de la importación dentro de la oferta de alimentos frescos en Mercamadrid?<br>
 ¿En qué medida la estacionalidad influye en la procedencia de los productos?<br>
 ¿Qué distancias recorren los alimentos desde su lugar de origen hasta Mercamadrid? ¿Existe una diferencia significativa entre los productos nacionales y los importados en este aspecto?<br>
