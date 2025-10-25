@@ -12,6 +12,6 @@ Este proyecto se inscribe en ese contexto, utilizando los datos de 2024 para ofr
 ¿Qué distancias recorren los alimentos desde su lugar de origen hasta Mercamadrid? ¿Existe una diferencia significativa entre los productos nacionales y los importados en este aspecto?<br>
 
 ## CONCLUSIONES
-Oferta interna como pilar del abastecimiento, pero gran necesidad de complementarla con la importación. Sobre todo, en ciertos productos vegetales. <br>
+Oferta interna como pilar del abastecimiento, pero gran necesidad de complementarla con la importación.<br>
 Normalización de la desestacionalización.<br>
 Alto impacto ambiental de la importación.
