@@ -7,7 +7,7 @@ In this context, analyzing the origin of traded products is particularly relevan
 
 This project uses 2024 data to provide an analytical overview of the geographical origin of fresh products sold at Mercamadrid, identifying origin patterns, differences in transport distances, and their relationship with seasonality, contributing to the broader discussion on the sustainability and resilience of Spain's food system.
 
-> **Note:** The analysis focuses on vegetable products as they offer the most balanced mix of domestic and imported supply among all categories, making them the most suitable for studying origin patterns and seasonal dynamics. Within vegetables, the 14 best-selling product categories were selected, together accounting for over half of total vegetable kilos sold at Mercamadrid in 2024, ensuring a representative analysis.
+> **Note:** The analysis focuses on vegetable products as they offer the most balanced mix of domestic and imported supply among all categories, making them the most suitable for studying origin patterns and seasonal dynamics. While the entire vegetable sector was examined to provide a comprehensive context, the study specifically narrows its focus to the 14 top-selling product categories. These categories account for over half of total vegetable kilos sold at Mercamadrid in 2024, ensuring a representative analysis of the broader market.
 
 ---
 
